@@ -20,8 +20,15 @@ https://github.com/black-forest-labs/flux
 https://blackforestlabs.ai/
 
 ### 🖼 Output
+
+flux.1-dev_jupyter (fp8)
+
 ![ComfyUI_00854_](https://github.com/user-attachments/assets/06af2e9f-1a9b-44b9-bf55-a4632cc08ef5)
 ![Screenshot 2024-08-02 072837](https://github.com/user-attachments/assets/84906d34-d0f1-4cc1-bbfd-21b2b9b76c48)
+
+flux.1-dev-i2i_jupyter (fp8 image to image)
+
+![image](https://github.com/user-attachments/assets/a1dcfc9d-02a6-4f67-beb3-2049631da7d3)
 
 ### 🏢 Sponsor
 https://runpod.io
