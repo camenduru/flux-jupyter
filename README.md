@@ -9,7 +9,7 @@
 | Notebook | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/flux-jupyter/blob/main/flux.1-dev_jupyter.ipynb) | flux.1-dev_jupyter (fp8)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/flux-jupyter/blob/main/flux.1-schnell_jupyter.ipynb) | flux.1-schnell_jupyter (fp8)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/flux-jupyter/blob/main/flux.1-schnell_jupyter.ipynb) | flux.1-schnell_jupyter (fp8 4-steps)
 
 ### 🧬 Code
 https://github.com/black-forest-labs/flux
