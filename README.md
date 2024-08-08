@@ -12,9 +12,11 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/flux-jupyter/blob/main/flux.1-schnell_jupyter.ipynb) | flux.1-schnell_jupyter (fp8 4-steps)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/flux-jupyter/blob/main/flux.1-dev-i2i_jupyter.ipynb) | flux.1-dev-i2i_jupyter (fp8 image to image)
 [![open_in_kaggle_small](https://user-images.githubusercontent.com/54370274/228924833-17316feb-d0fe-4249-90ba-682930ba11e5.svg)](https://www.kaggle.com/code/camenduru/flux-1-dev) | flux.1-dev_jupyter (fp8)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/flux-jupyter/blob/main/flux.1-dev-realism-lora-gradio_jupyter.ipynb) | flux.1-dev-realism-lora-gradio_jupyter (fp8 - gradio)
 
 ### 🧬 Code
-https://github.com/black-forest-labs/flux
+https://github.com/black-forest-labs/flux <br />
+https://github.com/XLabs-AI/x-flux <br />
 
 ### 🌐 Page
 https://blackforestlabs.ai/
