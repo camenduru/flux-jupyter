@@ -32,5 +32,10 @@ flux.1-dev-i2i_jupyter (fp8 image to image)
 
 ![image](https://github.com/user-attachments/assets/a1dcfc9d-02a6-4f67-beb3-2049631da7d3)
 
+flux.1-dev-realism-lora-gradio_jupyter (fp8 - gradio)
+
+![Screenshot 2024-08-08 141337](https://github.com/user-attachments/assets/e1dd2c16-3942-47ed-ba9c-ad218e7c521a)
+
+
 ### 🏢 Sponsor
 https://runpod.io
